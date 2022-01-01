@@ -1,0 +1,7 @@
+.banner { 
+	background-image: url(../../Photo4.jpg);
+	color:red;
+	background-size:contain;
+	background-position:left;
+	padding:50px 50px;
+}
